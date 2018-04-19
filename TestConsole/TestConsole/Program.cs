@@ -140,7 +140,7 @@ namespace TestConsole
                 StringBuilder requestUri = new StringBuilder(uri.ToString());
                 var request = (HttpWebRequest)WebRequest.Create(new Uri(requestUri.ToString()));
                 request.Method = WebRequestMethods.Http.Post;
-                request.Headers.Add("Authorization: Bearer FSGTD3cTE2AAAAAAAAAEU2uh2rQh8nh7ATJZ86n-6U7O3GI3QFCaaDybHMGtkT7D");
+                request.Headers.Add("Authorization: Bearer <appkey>");
                 request.UserAgent = "api-explorer-client";
                 request.ContentType = "application/octet-stream";
                 string postString = "{\"path\": \"" + path + "\"}";
