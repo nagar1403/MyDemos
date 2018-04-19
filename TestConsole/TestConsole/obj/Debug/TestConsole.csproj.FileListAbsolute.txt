@@ -1,0 +1,6 @@
+c:\users\nagar1\documents\visual studio 2015\Projects\TestConsole\TestConsole\bin\Debug\TestConsole.exe.config
+c:\users\nagar1\documents\visual studio 2015\Projects\TestConsole\TestConsole\bin\Debug\TestConsole.exe
+c:\users\nagar1\documents\visual studio 2015\Projects\TestConsole\TestConsole\bin\Debug\TestConsole.pdb
+c:\users\nagar1\documents\visual studio 2015\Projects\TestConsole\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+c:\users\nagar1\documents\visual studio 2015\Projects\TestConsole\TestConsole\obj\Debug\TestConsole.exe
+c:\users\nagar1\documents\visual studio 2015\Projects\TestConsole\TestConsole\obj\Debug\TestConsole.pdb
