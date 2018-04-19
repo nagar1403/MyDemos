@@ -15,7 +15,7 @@ namespace TestConsole
             Program p = new Program();
             //p.fibonacci();
             //p.CreateShortcut("MyLink dropbox", "https://www.dropbox.com/help/desktop-web/save-website-url");
-            p.UploadLinkAsset("/vctqa/value creation toolbox/vct/organization & human resources/general/hello links1/", "https://www.needledust.com/jutti/Events.jsp");
+            p.UploadLinkAsset("<dropbox folder>", "https://www.needledust.com/jutti/Events.jsp");
         }
 
         public void palidrome()
